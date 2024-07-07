@@ -1,4 +1,4 @@
-Name : AYUSHI  Company : CODTECH IT SOLUTIONS ID : CT6WDS74 Domain : VLSI Duration :20th JUNE 2024 to 20th JULY 2024 Mentor : SRAVANI GOUNI
+Name : AYUSHI  Company : CODTECH IT SOLUTIONS ID : CT4VLSI2708  Domain : VLSI Duration :20th JUNE 2024 to 20th JULY 2024 Mentor : SRAVANI GOUNI
 
 
 ![task1-4](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/1bfd7b3c-78e7-41a4-8d41-4781953677a3)
