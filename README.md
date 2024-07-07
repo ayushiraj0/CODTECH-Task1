@@ -1,1 +1,10 @@
-# CODTECH-Task1
+![task1-4](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/1bfd7b3c-78e7-41a4-8d41-4781953677a3)
+![task1-10](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/950fc1eb-0355-4d64-9df0-2ade78ecb9a3)
+![task1-9](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/d6d86a9a-89af-43af-91ca-61db8aeb3b13)
+![task1-8](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/c4f89e1d-7022-443d-ad8a-9dfaeae27391)
+![task1-7](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/87857ea4-c293-465d-8f86-3d4cb309c5dc)
+![task1-6](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/5ed4c4d2-0584-4042-a8d8-3a93f736f849)
+![task1-5](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/b8de4352-a878-4e32-81c3-211ffbaa60c2)
+![task1-3](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/5cbfac3f-72a4-48d7-a831-3e7da8706a59)
+![task1-2](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/1fc291b3-1a90-4b93-aafb-e6aca974f525)
+![task1-1](https://github.com/ayushiraj0/CODTECH-Task1/assets/156299726/3dda4b49-f151-4111-bb4c-6725e2f321ac)
